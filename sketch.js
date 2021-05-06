@@ -63,7 +63,7 @@ function setup(){
 
 
 function draw(){
-   
+   background(255);
     if(backgroundImg){
    
     background(backgroundImg);
