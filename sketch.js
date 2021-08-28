@@ -63,10 +63,10 @@ function setup(){
 
 
 function draw(){
-   
+    background(255);
     if(backgroundImg){
    
-    background(255);
+   
     textFont("Impact")
     textSize(25)
     fill ('red')   
